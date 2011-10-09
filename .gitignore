@@ -1,4 +1,8 @@
+tags
+
 *.obj
+*.bsc
+*.sbr
 
 *.swp
 
