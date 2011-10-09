@@ -1,0 +1,17 @@
+#Object compilation files
+*.obj
+
+*.brd
+*.res
+Bin/Debug/EasyBUtils.dll
+*.ilk
+*.pch
+*.pdb
+Bin/Debug/EasyBWizards.dll
+Bin/Debug/EasyBridge.exe
+*.idb
+*.ncb
+*.opt
+*.plg
+*.exp
+*.lib
