@@ -1,17 +1,29 @@
-#Object compilation files
 *.obj
+
+*.swp
+
+*.*~
 
 *.brd
 *.res
-Bin/Debug/EasyBUtils.dll
 *.ilk
 *.pch
 *.pdb
-Bin/Debug/EasyBWizards.dll
-Bin/Debug/EasyBridge.exe
 *.idb
 *.ncb
 *.opt
 *.plg
 *.exp
 *.lib
+
+Bin/Debug/CJ609Libd.dll
+Bin/Debug/EasyBUtils.dll
+Bin/Debug/EasyBWizards.dll
+Bin/Debug/EasyBridge.exe
+
+Bin/Release/CJ609Libd.dll
+Bin/Release/EasyBridge.exe
+Bin/Release/EasyBWizards.dll
+Bin/Release/EasyBUtils.dll
+
+.Bin
